@@ -1,6 +1,10 @@
 SHOW DATABASES;
 
-USE employee;
+************USE employee;
+
+
+
+select * frpm p;
 
 SHOW TABLES;
 
