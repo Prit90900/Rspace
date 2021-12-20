@@ -1,7 +1,12 @@
 SHOW DATABASES;
 
-************USE employee;
 
+
+lkjhg
+*******USE employee;
+
+
+Mongodb database
 
 
 select * frpm p;
